@@ -18,4 +18,4 @@ This dataset is meant to provide access for the AI and Machine Learning communit
 ## Citations 
 If you use Portr8 in any work, please be moral, ethical, and kind and cite this work. You are (probably) not in Kindergarten!
 
-**To cite this work**: 
+**To cite this work (APA)**: "Baraniuk, N. A. (2024). Portr8. https://github.com/linguiniwestern/Portr8/"
