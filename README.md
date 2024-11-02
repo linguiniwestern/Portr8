@@ -4,7 +4,7 @@ Portr8 – Artificial Intelligence for the Visual Arts
 ## Purpose and Description 
 This dataset is meant to provide access for the AI and Machine Learning community to Portraiture between the 16th and 19th centuries. These images, compiled from Wikimedia and Wikiart, are labeled with dates and URLs in the CSV file given. The dataset contains 66130 images. 
 
-The first column of the CSV file contains the original UTL of the image, the second column of the file contains the dates of the images, the third column contains URLs that only contain the image itself (image can be easily downloaded with Python libraries as noted below), and the fourth column of the CSV file contains a possible filename for the image (though these are not the required filenames). 
+The first column of the CSV file contains the original URL of the image, the second column of the file contains the dates of the images, the third column contains URLs that only contain the image itself (image can be easily downloaded with Python libraries as noted below), and the fourth column of the CSV file contains a possible filename for the image (though these are not the required filenames). 
 
 **Note**: These images may be retrieved (using the ) via BeutifulSoup, Scrapy, or other Python libraries with similar functions and uses. 
 
