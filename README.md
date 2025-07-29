@@ -1,6 +1,8 @@
 # Portr8
 Portr8 – Artificial Intelligence for the Visual Arts
 
+Creator: Nicholas Baraniuk 
+
 ## Purpose and Description 
 This dataset is meant to provide access for the AI and Machine Learning community to Portraiture between the 16th and 19th centuries. These images, compiled from Wikimedia and Wikiart, are labeled with dates and URLs in the CSV file given. The dataset contains 66130 images. 
 
